@@ -1,4 +1,4 @@
-### Steps to join The Design and Code Github Organization:
+### Steps to join The GitHub Campus IITM Organization:
 
 > 1. Go to the issues tab [here](https://github.com/GitHub-Campus-IITM/support/issues).
 >   
