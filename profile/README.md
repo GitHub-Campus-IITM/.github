@@ -7,6 +7,9 @@
 > 3. Select the "Invitation to the GitHub Campus IITM" and fill in your details.
 > 
 > 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, than only you will become a member of our Github Organization.
+>
+> 5. Make sure you have read the [Code of Conduct](https://github.com/GitHub-Campus-IITM/support/blob/main/CODE_OF_CONDUCT.md). Any violation to the rules may cause temporary or permanent ban from the organization. 
+
 
 ### How do I set the Organization to Public?
 
