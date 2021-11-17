@@ -15,7 +15,7 @@
 
 > 1. Navigate to our community page: https://github.com/GitHub-Campus-IITM/
 >   
-> 2. Click on the people header or click [here](https://github.com/GitHub-Campus-IITM/people) : <br>
+> 2. Click on the people header or click [here](https://github.com/orgs/GitHub-Campus-IITM/people) : <br>
 >   
 > <img width="221" alt="people" src="https://user-images.githubusercontent.com/65373279/133414355-a2605bc5-a4c4-4283-aa56-6ab8d1643c15.PNG"> <br>
 >   
