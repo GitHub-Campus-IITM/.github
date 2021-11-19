@@ -25,5 +25,12 @@
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/65373279/133414458-d76d47b4-1c96-439c-aff9-41a16a93ef9b.png"> <br>
+> <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/65373279/133414458-d76d47b4-1c96-439c-aff9-41a16a93ef9b.png"> <be>
+  
+
+## Git and GitHub tutorial
+  Create an [assignment](https://classroom.github.com/a/ol5YGoPT) for you and learn from GitHub.
+  
+## Web Development tutorial
+  Create an [assignment](https://classroom.github.com/a/9uiKpZB_) for you and learn from Microsoft.
   
